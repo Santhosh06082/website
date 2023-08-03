@@ -1,0 +1,25 @@
+.headers{
+    background-color: #169fcc;
+}
+.top{
+    margin: auto;
+    padding: 10px 20px ;
+}
+.top div{
+    width: 120px;
+}
+.top div img{
+    width: 120px;
+    padding: 0 15px;
+}
+@media (max-width:576px) {
+    .headers{
+        display: none;
+    }
+}
+.logo div div img{
+    width: 80vw;
+}
+.pic div div img{
+    width: 80vw;
+}
